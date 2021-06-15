@@ -1,1 +1,1 @@
-# Covif-Tracker
+# Covid-Tracker
